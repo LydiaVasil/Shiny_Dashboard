@@ -5,6 +5,10 @@ Data Questions:
 The dashboard is created to answer the above data questions and is hosted on the link below:
 https://lydiavasilyeva.shinyapps.io/lydiaapp/
 
+https://lydiavasilyeva.shinyapps.io/crime_explorer
+
+
+
 
 
 
